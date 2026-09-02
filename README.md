@@ -66,3 +66,6 @@ curl -X POST "http://127.0.0.1:8000/predict" \
   "score": 0.9998
 }
 ```
+
+<img width="1767" height="890" alt="image" src="https://github.com/user-attachments/assets/a8326a2e-296c-401b-8df3-bdb24bbf50dd" />
+
